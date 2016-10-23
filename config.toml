@@ -1,0 +1,6 @@
+baseurl = "http://kyegupov.github.on/"
+languageCode = "en-us"
+title = "Hugo Blog"
+
+[Params]
+Author = "Konstantin Yegupov"
